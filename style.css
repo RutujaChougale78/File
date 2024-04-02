@@ -1,0 +1,25 @@
+#bd
+{
+   background-color: rgb(178, 27, 148);
+       background-repeat:no-repeat;
+       height: 100vh;
+    color: white;
+    text-align: center;
+}
+#h1
+{
+    font-size: 60px;
+    text-align: center;
+}
+#a
+{
+    color: white;
+}
+#p
+{
+    font-size: 40px;
+}
+#img
+{
+    text-align: center;
+}
